@@ -1,0 +1,156 @@
+skills/feishu-card-json-v2-skill/README.md
+  1c5be544c87096a2 1-36 gitai:{"mixed_line_ranges":[],"operations":[{"operation_id":"6a06c08e611f5b0d026261da","tool_type":"agent","tool_id":"Write","line_ranges":[{"Range":[1,36]}]}]}
+skills/script-readme-generator/README.md
+  1c5be544c87096a2 1-27 gitai:{"mixed_line_ranges":[],"operations":[{"operation_id":"6a06c08e611f5b0d026261da","tool_type":"agent","tool_id":"Write","line_ranges":[{"Range":[1,27]}]}]}
+skills/apaas-oapi-skill/README.md
+  1c5be544c87096a2 1-32 gitai:{"mixed_line_ranges":[],"operations":[{"operation_id":"6a06c08e611f5b0d026261da","tool_type":"agent","tool_id":"Write","line_ranges":[{"Range":[1,32]}]}]}
+skills/correction-memory-skill/README.md
+  1c5be544c87096a2 1-30 gitai:{"mixed_line_ranges":[],"operations":[{"operation_id":"6a06c08e611f5b0d026261da","tool_type":"agent","tool_id":"Write","line_ranges":[{"Range":[1,30]}]}]}
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.4",
+  "base_commit_sha": "825faaf67e61fa76a8e0df70300ef77aee64a541",
+  "prompts": {
+    "1c5be544c87096a2": {
+      "agent_id": {
+        "tool": "trae",
+        "id": "6a06c00a611f5b0d026261a3",
+        "model": "gemini-3.1-pro__dev"
+      },
+      "human_author": "胡雨豪 <huyuhao@bytedance.com>",
+      "messages": [],
+      "total_additions": 125,
+      "total_deletions": 0,
+      "accepted_lines": 125,
+      "overriden_lines": 0
+    }
+  },
+  "attestation_metadata": {
+    "skills/apaas-oapi-skill/README.md": [
+      {
+        "hash": "1c5be544c87096a2",
+        "line_ranges": [
+          {
+            "Range": [
+              1,
+              32
+            ]
+          }
+        ],
+        "mixed_line_ranges": [],
+        "operations": [
+          {
+            "operation_id": "6a06c08e611f5b0d026261da",
+            "tool_type": "agent",
+            "tool_id": "Write",
+            "line_ranges": [
+              {
+                "Range": [
+                  1,
+                  32
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "skills/correction-memory-skill/README.md": [
+      {
+        "hash": "1c5be544c87096a2",
+        "line_ranges": [
+          {
+            "Range": [
+              1,
+              30
+            ]
+          }
+        ],
+        "mixed_line_ranges": [],
+        "operations": [
+          {
+            "operation_id": "6a06c08e611f5b0d026261da",
+            "tool_type": "agent",
+            "tool_id": "Write",
+            "line_ranges": [
+              {
+                "Range": [
+                  1,
+                  30
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "skills/feishu-card-json-v2-skill/README.md": [
+      {
+        "hash": "1c5be544c87096a2",
+        "line_ranges": [
+          {
+            "Range": [
+              1,
+              36
+            ]
+          }
+        ],
+        "mixed_line_ranges": [],
+        "operations": [
+          {
+            "operation_id": "6a06c08e611f5b0d026261da",
+            "tool_type": "agent",
+            "tool_id": "Write",
+            "line_ranges": [
+              {
+                "Range": [
+                  1,
+                  36
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "skills/script-readme-generator/README.md": [
+      {
+        "hash": "1c5be544c87096a2",
+        "line_ranges": [
+          {
+            "Range": [
+              1,
+              27
+            ]
+          }
+        ],
+        "mixed_line_ranges": [],
+        "operations": [
+          {
+            "operation_id": "6a06c08e611f5b0d026261da",
+            "tool_type": "agent",
+            "tool_id": "Write",
+            "line_ranges": [
+              {
+                "Range": [
+                  1,
+                  27
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "remote_transcripts": {
+    "1c5be544c87096a2": {
+      "tool": "trae",
+      "conversation_id": "6a06c00a611f5b0d026261a3",
+      "session_id": "6a06c00a611f5b0d026261a3",
+      "status": "remote_only",
+      "message": "Remote transcript resolution is not implemented yet for TRAE prompts."
+    }
+  }
+}
